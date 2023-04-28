@@ -1,0 +1,107 @@
+[08:26:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:26:31] [ServerMain/INFO]: Loaded 7 recipes
+[08:26:32] [ServerMain/WARN]: Found validation problem in {minecraft:entities/bat}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/bat
+[08:26:32] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[08:26:32] [Server thread/INFO]: Loading properties
+[08:26:32] [Server thread/INFO]: This server is running Paper version git-Paper-521 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT) (Git: bcec5b1)
+[08:26:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:26:32] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:26:32] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[08:26:32] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[08:26:32] [Server thread/INFO]: Default game type: SURVIVAL
+[08:26:32] [Server thread/INFO]: Generating keypair
+[08:26:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:26:32] [Server thread/INFO]: Using default channel type
+[08:26:32] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[08:26:32] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[08:26:33] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.4.5
+[08:26:33] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.1.0-SNAPSHOT
+[08:26:33] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[08:26:33] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[08:26:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:26:33] [Server thread/INFO]: Preparing level "wwwwwww"
+[08:26:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:26:34] [Server thread/INFO]: Time elapsed: 72 ms
+[08:26:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[08:26:34] [Server thread/INFO]: Time elapsed: 23 ms
+[08:26:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[08:26:34] [Server thread/INFO]: Time elapsed: 19 ms
+[08:26:34] [Server thread/INFO]: [voicechat] Enabling voicechat v2.4.5
+[08:26:34] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.19.4-R0.1
+[08:26:34] [Server thread/INFO]: [voicechat] Compatibility version 17
+[08:26:34] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[08:26:34] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.1.0-SNAPSHOT
+[08:26:34] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[08:26:34] [Server thread/INFO]: [Geyser-Spigot] 
+[08:26:34] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.1.0-SNAPSHOT (git-master-8a25afb)
+[08:26:34] [Server thread/INFO]: [Geyser-Spigot] 
+[08:26:34] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[08:26:37] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
+[08:26:37] [Server thread/INFO]: [Geyser-Spigot] Done (3.373s)! Run /geyser help for help!
+[08:26:37] [Server thread/INFO]: Running delayed init tasks
+[08:26:37] [Server thread/INFO]: [voicechat] Loading plugins
+[08:26:37] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[08:26:37] [Server thread/INFO]: [voicechat] Initializing plugins
+[08:26:37] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[08:26:37] [Server thread/INFO]: [voicechat] Using default voicechat socket implementation
+[08:26:37] [VoiceChatServerThread/INFO]: [voicechat] Server started at port 27015
+[08:26:37] [Server thread/INFO]: Done (5.169s)! For help, type "help"
+[08:26:37] [Server thread/INFO]: Timings Reset
+[08:31:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 88468ms or 1769 ticks behind
+[08:31:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@45fb3b6d[id=<null>,name=KumanoChi,properties={},legacy=false] (/127.0.0.1:9888) lost connection: Disconnected
+[08:32:27] [User Authenticator #0/INFO]: UUID of player KumanoChi is c2b9bb9e-d052-485d-9b41-fd0add5adae9
+[08:32:27] [Server thread/INFO]: KumanoChi joined the game
+[08:32:27] [Server thread/INFO]: KumanoChi[/127.0.0.1:9919] logged in with entity id 243 at ([wwwwwww]657.1338080501705, 66.875, 335.15101496620554)
+[08:32:31] [Server thread/INFO]: [voicechat] Received secret request of KumanoChi (17)
+[08:32:31] [Server thread/INFO]: [voicechat] Sent secret to KumanoChi
+[08:32:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c2b9bb9e-d052-485d-9b41-fd0add5adae9
+[08:32:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c2b9bb9e-d052-485d-9b41-fd0add5adae9
+[08:32:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player KumanoChi (c2b9bb9e-d052-485d-9b41-fd0add5adae9) successfully connected to voice chat
+[08:55:21] [Server thread/INFO]: Villager EntityVillager['Villager'/874, uuid='9aca3eec-e8e1-449b-976d-675507e2b72c', l='ServerLevel[wwwwwww]', x=754.57, y=69.00, z=189.70, cpos=[47, 11], tl=24191, v=true] died, message: 'Villager suffocated in a wall'
+[09:11:25] [Server thread/INFO]: Villager EntityVillager['Villager'/473, uuid='fbfab7bd-c586-4c54-ad5b-acbe275add7b', l='ServerLevel[wwwwwww]', x=754.55, y=66.00, z=191.27, cpos=[47, 11], tl=63994, v=true] died, message: 'Villager was slain by KumanoChi'
+[10:14:53] [Server thread/INFO]: Villager EntityVillager['Villager'/12148, uuid='960c1bb8-04be-46f7-a721-2bc0f90a3984', l='ServerLevel[wwwwwww]', x=754.55, y=69.00, z=189.70, cpos=[47, 11], tl=24191, v=true] died, message: 'Villager suffocated in a wall'
+[10:37:08] [Server thread/INFO]: Villager EntityVillager['Villager'/15883, uuid='75d23f78-5dd2-48fc-9aa8-fe04228b950a', l='ServerLevel[wwwwwww]', x=754.50, y=69.00, z=189.70, cpos=[47, 11], tl=24191, v=true] died, message: 'Villager suffocated in a wall'
+[10:44:36] [Server thread/INFO]: Villager EntityVillager['Villager'/16969, uuid='496aab96-74ca-440b-bdd7-1498d006be2d', l='ServerLevel[wwwwwww]', x=754.70, y=68.00, z=189.30, cpos=[47, 11], tl=24191, v=true] died, message: 'Villager suffocated in a wall'
+[10:56:37] [Server thread/INFO]: Villager EntityVillager['Villager'/18562, uuid='da0b83c6-adda-4a09-b105-20e0a5876896', l='ServerLevel[wwwwwww]', x=754.53, y=69.00, z=189.70, cpos=[47, 11], tl=24191, v=true] died, message: 'Villager suffocated in a wall'
+[12:13:06] [Server thread/INFO]: Villager EntityVillager['Villager'/28816, uuid='f36a9c2d-ca46-4528-b7ea-131975353032', l='ServerLevel[wwwwwww]', x=754.33, y=68.00, z=189.70, cpos=[47, 11], tl=24191, v=true] died, message: 'Villager suffocated in a wall'
+[12:16:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27480ms or 549 ticks behind
+[12:16:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player c2b9bb9e-d052-485d-9b41-fd0add5adae9 timed out
+[12:16:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player KumanoChi
+[12:16:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to KumanoChi
+[12:16:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c2b9bb9e-d052-485d-9b41-fd0add5adae9
+[12:16:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c2b9bb9e-d052-485d-9b41-fd0add5adae9
+[12:16:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player KumanoChi (c2b9bb9e-d052-485d-9b41-fd0add5adae9) successfully connected to voice chat
+[12:18:42] [Server thread/INFO]: Stopping the server
+[12:18:43] [Server thread/INFO]: Stopping server
+[12:18:43] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.1.0-SNAPSHOT
+[12:18:43] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[12:18:43] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[12:18:43] [Server thread/INFO]: [voicechat] Disabling voicechat v2.4.5
+[12:18:43] [Server thread/INFO]: Saving players
+[12:18:43] [Server thread/INFO]: KumanoChi lost connection: Server closed
+[12:18:43] [Server thread/INFO]: KumanoChi left the game
+[12:18:43] [Server thread/INFO]: Saving worlds
+[12:18:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[wwwwwww]'/minecraft:overworld
+[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'wwwwwww'
+[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'wwwwwww'
+[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'wwwwwww'
+[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 179 entity chunks, 1 poi chunks in world 'wwwwwww' in 0.12s
+[12:18:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (wwwwwww): All chunks are saved
+[12:18:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[wwwwwww_nether]'/minecraft:the_nether
+[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'wwwwwww_nether'
+[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'wwwwwww_nether'
+[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'wwwwwww_nether'
+[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Saved 5 block chunks, 95 entity chunks, 0 poi chunks in world 'wwwwwww_nether' in 0.02s
+[12:18:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:18:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[wwwwwww_the_end]'/minecraft:the_end
+[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'wwwwwww_the_end'
+[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'wwwwwww_the_end'
+[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'wwwwwww_the_end'
+[12:18:43] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 38 entity chunks, 0 poi chunks in world 'wwwwwww_the_end' in 0.00s
+[12:18:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:18:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:18:43] [Server thread/INFO]: Flushing Chunk IO
+[12:18:43] [Server thread/INFO]: Closing Thread Pool
+[12:18:43] [Server thread/INFO]: Closing Server
